@@ -1,2 +1,2 @@
 # binary-numbers-conversion
-its an app for conversion of numbers to either binary, octal, decimal or hexadecimal
+It is an application for converting numbers to either binary, octal, decimal or hexadecimal
